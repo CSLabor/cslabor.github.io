@@ -19,14 +19,14 @@ locale                   : "en-US"
 title                    : #"Site Title"
 title_separator          : #"-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Xin Zhang's Homepage"
+name                     : "Thesis Homepage"
 description              : #"An amazing website."
-url                      : "https://initzhang.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://cslabor.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Xin's Homepage" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Thesis Homepage" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -104,24 +104,24 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xin Zhang (张鑫)"
+  name             : "Xinyue DU (杜心悦)"
   avatar           : "/assets/images/bio-photo.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD student @ HKUST" # first line
+  bio              : "TCLL student @ HKU" # first line
   location         : "Hong Kong"
   email            : # "xzhanggb@ust.hk"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:xzhanggb@ust.hk"
+      url: "mailto:xxxx@ust.hk"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/xin-zhang-b91364191/"
+      url: "https://www.linkedin.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/initzhang"
+      url: "https://github.com/cslabor"
     - label: "Google Scholar"
       icon: "fa fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=2lsBmH8AAAAJ&hl=en"
+      url: "https://scholar.google.com/"
 
 # Site Footer
 footer:
