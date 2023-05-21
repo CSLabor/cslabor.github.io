@@ -4,7 +4,7 @@ main:
   #   url: https://initzhang.github.io/
   # - title: "Publications"
   #   url: https://initzhang.github.io/#publications
-  # - title: "Miscellaneous"
-  #   url: /misc/
+  - title: "Miscellaneous"
+    url: /misc/
   # - title: "Sitemap"
   #   url: /sitemap/
