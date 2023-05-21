@@ -4,12 +4,6 @@ author_profile: false
 title: Xinyue DU's Thesis Presentation
 ---
 
-<style>
-body {
-  background-image: url('/assets/images/bg.jpg');
-}
-</style>
-
 [课前资料](https://drive.google.com/drive/u/1/folders/10n4ylrJPa8BmYDS5lg0WCcOcKAyPiezD)
 * XXX
 * XX
