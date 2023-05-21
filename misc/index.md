@@ -7,22 +7,16 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
 excerpt: "心悦教学设计展示"
-intro:
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    title: "[课前资料](https://drive.google.com/drive/u/1/folders/10n4ylrJPa8BmYDS5lg0WCcOcKAyPiezD)"
+    excerpt: "[课前资料](https://drive.google.com/drive/u/1/folders/10n4ylrJPa8BmYDS5lg0WCcOcKAyPiezD)"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "[课中资料](https://drive.google.com/drive/u/1/folders/1FMTnTuqDIjm8WcA5-rdt2GHB20nLYLV6)"
+    excerpt: "[课中资料](https://drive.google.com/drive/u/1/folders/1FMTnTuqDIjm8WcA5-rdt2GHB20nLYLV6)"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    title: "[课后资料](https://drive.google.com/drive/u/1/folders/1jBzMIbM9c_6fKLJwSSOIVbVXVyhwe9QT)"
+    excerpt: "[课后资料](https://drive.google.com/drive/u/1/folders/1jBzMIbM9c_6fKLJwSSOIVbVXVyhwe9QT)"
 ---
 
-{% include feature_row id="intro" type="center" %}
 {% include feature_row %}
 
 
