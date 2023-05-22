@@ -10,7 +10,11 @@ excerpt: "心悦教学设计展示"
 intro:
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    excerpt: "[课前资料](https://drive.google.com/drive/u/1/folders/10n4ylrJPa8BmYDS5lg0WCcOcKAyPiezD)"
+    title: "课前资料"
+    excerpt: "一些描述[课前资料](https://drive.google.com/drive/u/1/folders/10n4ylrJPa8BmYDS5lg0WCcOcKAyPiezD)"
+    url: "https://www.baidu.com"
+    btn_class: "btn--info"
+    btn_label: "Read More"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     excerpt: "[课中资料](https://drive.google.com/drive/u/1/folders/1FMTnTuqDIjm8WcA5-rdt2GHB20nLYLV6)"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
