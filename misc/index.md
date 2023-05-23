@@ -1,12 +1,12 @@
 ---
-title: "毕业论文"
+title: "新闻教学辅助材料"
 layout: splash
 permalink: /misc/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
-excerpt: "新闻单元辅助包--心悦课程设计"
+excerpt: "——真实性学习教学理论应用"
 intro:
 feature_row:
   - image_path: assets/images/study.jpeg
